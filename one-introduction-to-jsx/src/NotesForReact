@@ -1,0 +1,26 @@
+
+1) React is a JavaScript library for creating user interfaces.
+(React, kullanıcı arayüzleri oluşturmak için bir JavaScript kitaplığıdır.)
+
+2) The react package contains only the functionality necessary
+ to define React components.
+ (React paketi, yalnızca React bileşenlerini tanımlamak için
+  gerekli işlevselliği içerir.)
+
+ 3) It is typically used together with a React renderer like 
+ react-dom for the web,or react-native for the native environments. 
+ (Genellikle web için react-dom veya yerel ortamlar için 
+ react-native gibi bir React oluşturucu ile birlikte kullanılır.)
+
+ 4) Note: by default, React will be in development mode.
+    (Not: varsayılan olarak, React geliştirme modunda olacaktır.)
+
+ 5) The development version includes extra warnings about common mistakes,
+ whereas the production version includes extra performance optimizations and 
+ strips all error messages.   
+ (Geliştirme sürümü, yaygın hatalar hakkında ekstra uyarılar içerirken, 
+ üretim sürümü ekstra performans optimizasyonları içerir ve 
+ tüm hata mesajlarını çıkarır.)
+
+ 6) Don't forget to use the production build when deploying your application.
+    (Uygulamanızı dağıtırken üretim yapısını kullanmayı unutmayın.)
